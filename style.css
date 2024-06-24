@@ -1,0 +1,18 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.chil{
+    border: 2px solid black;
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+}
+input{
+    outline: none;
+    border: 3px solid red;
+    padding: 10px;
+    margin: 10px
+}
